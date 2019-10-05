@@ -1,0 +1,16 @@
+.product-grid{
+  border:1px solid lightgrey;
+  border-radius:1cm;
+}
+
+.product-img{
+  padding:0.5cm;
+}
+
+.product-grid:hover{
+  background-color: #e0e0eb;
+}
+
+.img-rounded {
+    border-radius: 20px !important;
+}

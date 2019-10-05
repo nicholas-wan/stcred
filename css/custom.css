@@ -42,4 +42,14 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width:100%;
+}
+.storyimg2{
+  height:500px;
+}
+.appstore{
+  height:120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

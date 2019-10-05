@@ -27,11 +27,13 @@
 .prod-title{
   font-weight:bold;
 }
-.g1,.g2,.g3{
+.g1{
   object-fit:scale-down;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  transition: transform .2s; /* Animation */
+
 }
 .brandimg{
   height:30px;
@@ -43,13 +45,35 @@
   margin-left: auto;
   margin-right: auto;
   width:100%;
+  transition: transform .2s; /* Animation */
+
 }
+
 .storyimg2{
   height:500px;
+  transition: transform .2s; /* Animation */
+
 }
 .appstore{
   height:120px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  transition: transform .2s; /* Animation */
+
+}
+.lendbutton{
+  background-color:#009F56;
+  color:white;
+  padding:10px;
+  transition: transform .2s; /* Animation */
+  font-size:20px;
+  text-decoration: bold;
+
+}
+.lendbutton:hover,.appstore:hover,.storyimg2:hover ,.g1:hover ,.faicon:hover{
+  transform: scale(1.1) !important; /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.faicon{
+  transition: transform .2s; /* Animation */
 }

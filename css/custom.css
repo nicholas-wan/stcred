@@ -1,6 +1,5 @@
 .product-grid{
-  border:1px solid lightgrey;
-  border-radius:1cm;
+  background-color:white;
 }
 
 .product-img{
@@ -13,4 +12,10 @@
 
 .img-rounded {
     border-radius: 20px !important;
+    padding:5px !important;
+}
+
+.donation{
+  font-size:10px;
+  color:grey;
 }

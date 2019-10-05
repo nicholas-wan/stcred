@@ -19,3 +19,18 @@
   font-size:10px;
   color:grey;
 }
+
+.location{
+  color: #009F56;
+  font-weight: bold;
+}
+.prod-title{
+  font-weight:bold;
+}
+.g1,.g2,.g3{
+  object-fit:scale-down;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

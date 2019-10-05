@@ -38,3 +38,9 @@
   height:30px;
   margin-right:5px;
 }
+
+.storyimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -29,7 +29,6 @@
 }
 .g1,.g2,.g3{
   object-fit:scale-down;
-
   display: block;
   margin-left: auto;
   margin-right: auto;

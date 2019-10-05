@@ -77,3 +77,9 @@
 .faicon{
   transition: transform .2s; /* Animation */
 }
+@media only screen and (max-width: 600px) {
+  /* put your css styles in here */
+  .owl-carousel-fullwidth, .item, .owl-carousel-fullwidth, .fh5co-owl-text-wrap{
+    height:500px !important;
+  }
+}

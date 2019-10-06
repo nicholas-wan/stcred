@@ -32,6 +32,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  transition: transform .2s; /* Animation */
 
 }
 .brandimg{
@@ -70,7 +71,7 @@
   text-decoration: bold;
 
 }
-.lendbutton:hover,.appstore:hover,.storyimg2:hover ,.faicon:hover{
+.lendbutton:hover,.appstore:hover,.storyimg2:hover ,.g1:hover ,.faicon:hover{
   transform: scale(1.1) !important; /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 .faicon{

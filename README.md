@@ -25,3 +25,6 @@ StCred (StreetCredit). It is a platform that allows crowdfunded micro-loans for 
 (3) We also need to do some form of risk management by screening out applicants
 
 (4) Lastly, we need an easy form of disbursement and repayment of funds.
+
+### Acknowledgements
+* Ho Kai Lun

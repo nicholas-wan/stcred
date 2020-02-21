@@ -1,5 +1,3 @@
-bit.ly/streetcredit
-
 ### About
 Financial Inclusion Hackathon Project (1st Place Winner)
 StCred (StreetCredit). It is a platform that allows crowdfunded micro-loans for students. The platform targets students that need to take loans to survive until their next paycheck. By allowing investors to invest in a shared pool of money, and when students can only withdraw from that pool, it reduces the default risk of the loan as investors do not lend to individual students directly.
